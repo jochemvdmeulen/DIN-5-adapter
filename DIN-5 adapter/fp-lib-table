@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DIN-5 adapter")(type KiCad)(uri "${KIPRJMOD}/DIN-5 adapter.pretty")(options "")(descr ""))
+)
